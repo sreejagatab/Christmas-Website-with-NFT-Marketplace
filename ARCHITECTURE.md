@@ -1225,7 +1225,7 @@ const Marketplace = () => {
 │                                                                                  │
 │  PORT=4000                                                                       │
 │  ENV=Production                                                                  │
-│  MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/nft_marketplace        │
+│  MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/db_name    │
 │  REACT_APP_API_URL=https://api.yourdomain.com/api                               │
 │  JWT_SECRET=<strong-random-secret>                                              │
 │                                                                                  │
